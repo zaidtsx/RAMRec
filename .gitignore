@@ -1,0 +1,7 @@
+recbole/dataset_example/
+dataset/
+.vs/
+.vscode
+.DS_Store
+**/__pycache__/
+**/.DS_Store
