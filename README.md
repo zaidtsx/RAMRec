@@ -23,7 +23,7 @@ Sequential recommendation systems face a **parametric memory bottleneck** where 
 
 We propose a new memory-augmented paradigm for sequential recommendation that maintains external episodic memories and adaptively retrieves them based on user characteristics.
 
-![Framework Architecture](./assets/framework_architecture.png)
+![Framework Architecture](./assets/ramework_architecture.png)
 
 **Key Components:**
 1. **Transformer Encoder**: Processes sequential interactions
